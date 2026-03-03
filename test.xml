@@ -13,7 +13,7 @@
     <condition>new</condition>
     <gtin>9788480206761</gtin>
     <image_link>http://static.serlogal.com/imagenes_big/9788480/978848020676.JPG</image_link>
-    <availability>in stock</availability>
+    <availability>in_stock</availability>
     <shipping>ES::Envío 1-2 dias:0.00</shipping>
     <year>2012</year>
     <author>Granados, E</author>
@@ -32,7 +32,7 @@
     <condition>new</condition>
     <gtin>9788480206785</gtin>
     <image_link>http://static.serlogal.com/imagenes_big/9788480/978848020678.JPG</image_link>
-    <availability>in stock</availability>
+    <availability>instock</availability>
     <shipping>ES::Envío 1-2 dias:0.00</shipping>
     <year>2012</year>
     <author>Granados, E</author>
@@ -87,7 +87,7 @@
     <condition>new</condition>
     <gtin>9788480204484</gtin>
     <image_link>http://static.serlogal.com/imagenes_big/9788480/978848020448.JPG</image_link>
-    <availability>in stock</availability>
+    <availability>in_stock</availability>
     <shipping>ES::Envío 1-2 dias:4.50</shipping>
     <year>2010</year>
     <author>Doupond, Gerard</author>
@@ -105,7 +105,7 @@
     <condition>new</condition>
     <gtin>9788480205153</gtin>
     <image_link>http://static.serlogal.com/imagenes_big/9788480/978848020515.JPG</image_link>
-    <availability>in stock</availability>
+    <availability>instock</availability>
     <shipping>ES::Envío 1-2 dias:4.50</shipping>
     <year>2010</year>
     <author>Doring, Carl Heinrich</author>
