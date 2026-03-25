@@ -1,52 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
-  <channel>
-    <title>Biotex Product Feed</title>
-    <link>https://www.biotex.it</link>
-    <description>Feed de productos técnicos deportivos Biotex</description>
-    
-    <item>
-      <g:item_group_id><![CDATA[190]]></g:item_group_id>
-      <g:id><![CDATA[190-1]]></g:id>
-      <g:title><![CDATA[Canotta Summerlight - Bianco]]></g:title>
-      <g:description><![CDATA[Perfetta per allenamenti nei mesi caldi, la Canotta Summerlight garantisce massima traspirazione e libertà di movimento grazie alla rete bielastica trama larga, senza cuciture. Aderente e super leggera, mantiene la pelle asciutta anche con temperature elevate fino a 40°.]]></g:description>
-      <g:link><![CDATA[https://www.biotex.it/shop/it/canotta/190-canotta-summerlight]]></g:link>
-      <g:image_link><![CDATA[https://www.biotex.it/shop/14793-large_default/canotta-summerlight.jpg]]></g:image_link>
-      <g:additional_image_link><![CDATA[https://www.biotex.it/shop/14792-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
-      <g:additional_image_link><![CDATA[https://www.biotex.it/shop/19323-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
-      <g:additional_image_link><![CDATA[https://www.biotex.it/shop/19321-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
-      <g:additional_image_link><![CDATA[https://www.biotex.it/shop/19322-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
-      <g:price>49.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
-      <g:product_type><![CDATA[Intimo tecnico sportivo da Uomo > Canotte Sportive da Uomo]]></g:product_type>
-      <g:brand><![CDATA[Biotex]]></g:brand>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:condition>new</g:condition>
-      <g:gender>male</g:gender>
-      <g:age_group>adult</g:age_group>
-      <g:size><![CDATA[I / XS-M]]></g:size>
-      <g:color><![CDATA[BIANCO]]></g:color>
-    </item>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+  <title><![CDATA[feed-per-connectif]]></title>
+  <link rel="self" href="https://www.biotex.it/shop/"/>
+  <updated>2026-03-25T19:56:29Z</updated>
+  <author>
+    <name>Biotex</name>
+  </author>
+  <id>https://www.biotex.it/shop/</id>
 
-    <item>
-      <g:item_group_id><![CDATA[190]]></g:item_group_id>
-      <g:id><![CDATA[190-2]]></g:id>
-      <g:title><![CDATA[Canotta Summerlight - Blu]]></g:title>
-      <g:description><![CDATA[Perfetta per allenamenti nei mesi caldi, la Canotta Summerlight garantisce massima traspirazione e libertà di movimiento grazie alla rete bielastica trama larga, senza cuciture. Aderente e super leggera, mantiene la pelle asciutta anche con temperature elevate fino a 40°.]]></g:description>
-      <g:link><![CDATA[https://www.biotex.it/shop/it/canotta/190-canotta-summerlight]]></g:link>
-      <g:image_link><![CDATA[https://www.biotex.it/shop/14796-large_default/canotta-summerlight.jpg]]></g:image_link>
-      <g:additional_image_link><![CDATA[https://www.biotex.it/shop/12544-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
-      <g:additional_image_link><![CDATA[https://www.biotex.it/shop/12545-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
-      <g:price>49.00 EUR</g:price>
-      <g:availability>in stock</g:availability>
-      <g:product_type><![CDATA[Intimo tecnico sportivo da Uomo > Canotte Sportive da Uomo]]></g:product_type>
-      <g:brand><![CDATA[Biotex]]></g:brand>
-      <g:identifier_exists>yes</g:identifier_exists>
-      <g:condition>new</g:condition>
-      <g:gender>male</g:gender>
-      <g:age_group>adult</g:age_group>
-      <g:size><![CDATA[I / XS-M]]></g:size>
-      <g:color><![CDATA[BLU]]></g:color>
-    </item>
-  </channel>
-</rss>
+  <entry>
+    <g:id><![CDATA[190-1]]></g:id>
+    <title><![CDATA[Canotta Summerlight - Bianco]]></title>
+    <summary><![CDATA[Perfetta per allenamenti nei mesi caldi, la Canotta Summerlight garantisce massima traspirazione e libertà di movimiento grazie alla rete bielastica trama larga, senza cuciture. Aderente e super leggera, mantiene la pelle asciutta anche con temperature elevate fino a 40°.]]></summary>
+    <link href="https://www.biotex.it/shop/it/canotta/190-canotta-summerlight"/>
+    
+    <g:item_group_id><![CDATA[190]]></g:item_group_id>
+    <g:image_link><![CDATA[https://www.biotex.it/shop/14793-large_default/canotta-summerlight.jpg]]></g:image_link>
+    <g:additional_image_link><![CDATA[https://www.biotex.it/shop/14792-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
+    <g:additional_image_link><![CDATA[https://www.biotex.it/shop/19323-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
+    <g:additional_image_link><![CDATA[https://www.biotex.it/shop/19321-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
+    <g:additional_image_link><![CDATA[https://www.biotex.it/shop/19322-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
+    
+    <g:price>49.00 EUR</g:price>
+    <g:availability>in stock</g:availability>
+    <g:product_type><![CDATA[Intimo tecnico sportivo da Uomo > Canotte Sportive da Uomo]]></g:product_type>
+    <g:brand><![CDATA[Biotex]]></g:brand>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:condition>new</g:condition>
+    <g:gender>male</g:gender>
+    <g:age_group>adult</g:age_group>
+    <g:size><![CDATA[I / XS-M]]></g:size>
+    <g:color><![CDATA[BIANCO]]></g:color>
+  </entry>
+
+  <entry>
+    <g:id><![CDATA[190-2]]></g:id>
+    <title><![CDATA[Canotta Summerlight - Blu]]></title>
+    <summary><![CDATA[Perfetta per allenamenti nei mesi caldi, la Canotta Summerlight garantisce massima traspirazione e libertà di movimiento grazie alla rete bielastica trama larga, senza cuciture. Aderente e super leggera, mantiene la pelle asciutta anche con temperature elevate fino a 40°.]]></summary>
+    <link href="https://www.biotex.it/shop/it/canotta/190-canotta-summerlight"/>
+    
+    <g:item_group_id><![CDATA[190]]></g:item_group_id>
+    <g:image_link><![CDATA[https://www.biotex.it/shop/14796-large_default/canotta-summerlight.jpg]]></g:image_link>
+    <g:additional_image_link><![CDATA[https://www.biotex.it/shop/12544-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
+    <g:additional_image_link><![CDATA[https://www.biotex.it/shop/12545-large_default/canotta-summerlight.jpg]]></g:additional_image_link>
+    
+    <g:price>49.00 EUR</g:price>
+    <g:availability>in stock</g:availability>
+    <g:product_type><![CDATA[Intimo tecnico sportivo da Uomo > Canotte Sportive da Uomo]]></g:product_type>
+    <g:brand><![CDATA[Biotex]]></g:brand>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:condition>new</g:condition>
+    <g:gender>male</g:gender>
+    <g:age_group>adult</g:age_group>
+    <g:size><![CDATA[I / XS-M]]></g:size>
+    <g:color><![CDATA[BLU]]></g:color>
+  </entry>
+</feed>
