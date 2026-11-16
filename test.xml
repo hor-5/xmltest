@@ -1,191 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
-    <external-prod-id>PLA</external-prod-id>
-    <name>
-      <![CDATA[ Tapis de coupe double face Planche de protection auto-réparante ]]>
-    </name>
-    <description>
-      <![CDATA[ Super bases de coupe voiture effrayante et double face. Protégez vos tables de travail avec ces plaques. ]]>
-    </description>
-    <category>Coupe</category>
-    <category>
-      <![CDATA[ Outils pour découper un stylo carton ]]>
-    </category>
-    <tag>le fer sauve la coupe</tag>
-    <tag>
-      <![CDATA[ tapis de découpe ]]>
-    </tag>
-    <tag>base de coupe</tag>
-    <tag>tapis de coupe</tag>
-    <tag>
-      <![CDATA[ base de découpe transotype ]]>
-    </tag>
-    <tag>
-      <![CDATA[ cour de tapis d'alvin ]]>
-    </tag>
-    <tag>dahle estera corte</tag>
-    <tag>PLACE</tag>
-    <tag>PLA021</tag>
-    <tag>PLA030</tag>
-    <tag>PLA045</tag>
-    <tag>PLA060</tag>
-    <tag>PLA090</tag>
-    <tag>PLA100</tag>
-    <tag>PLA200</tag>
-    <tag>coupe de fer Olfa</tag>
-    <tag>ecobra iron cut</tag>
-    <tag>
-      <![CDATA[ modèles de coupe ]]>
-    </tag>
-    <tag>tapis de coupe fiskars</tag>
-    <tag>
-      <![CDATA[ tapis de découpe trèfle ]]>
-    </tag>
-    <tag>
-      <![CDATA[ tapis de découpe wedo ]]>
-    </tag>
-    <tag>
-      <![CDATA[ tapis de découpe alco ]]>
-    </tag>
-    <tag>
-      <![CDATA[ tapis de découpe omigrid ]]>
-    </tag>
-    <brand>MOLDIBER</brand>
-    <priority>1</priority>
-    <detail-url>https://moldiber.com/fr/coupe/coupe-double-face-economisez-le-fertapis-de-table-de-coupe-27.html</detail-url>
-    <image-url>https://moldiber.com/2152-connectif_default/coupe-double-face-economisez-le-fertapis-de-table-de-coupe.jpg</image-url>
-    <image-url-thumb>https://moldiber.com/2152-small_default/coupe-double-face-economisez-le-fertapis-de-table-de-coupe.webp</image-url-thumb>
-    <unit-price>0.00</unit-price>
-    <original-unit-price>0.00</original-unit-price>
-    <unit-price-without-vat>0.00</unit-price-without-vat>
-    <discount-amount>0.00</discount-amount>
-    <discount-percent>0.00</discount-percent>
-    <related-product-id>CUT600</related-product-id>
-    <related-product-id>CUT550</related-product-id>
-    <related-product-id>CUT305</related-product-id>
-    <related-product-id>CUT302</related-product-id>
-    <related-product-id>CUT301</related-product-id>
-    <related-product-id>CUT500</related-product-id>
-    <related-product-id>CUT150</related-product-id>
-    <related-product-id>CUT100</related-product-id>
-    <related-product-id>REG5</related-product-id>
-    <reviews>0</reviews>
-    <rating>0</rating>
+    <external-prod-id>1</external-prod-id>
+    <name>CAZO FRANCÉS INOX</name>
+    <description>Fondo difusor, asa acero inoxidable.</description>
+    <category>/CAZOS Y TAPAS</category>
+    <detail-url>https://dispan.es/cazos-y-tapas/cazo-frances-inox#/3744-caracteristica-o12_cm_h7_cm_070_l</detail-url>
+    <unit-price>34.279300</unit-price>
+    <unit-price-without-vat>28.330000</unit-price-without-vat>
     <availaibility>instock</availaibility>
-    <stock>4</stock>
-    <black-list>true</black-list>
-    <publish-date>2016-04-14T16:27:04</publish-date>
-    <custom-field-1>27</custom-field-1>
-    <custom-field-2/>
-    <custom-field-3/>
+    <stock>3</stock>
+    <image-url>https://dispan.es/1-home_default/cazo-frances-inox.jpg</image-url>
   </product>
   <product>
-    <external-prod-id>EUR</external-prod-id>
-    <name>Barre de Coupe Trimalco Europa</name>
-    <description>
-      <![CDATA[ Marque et modèle: TRIMALCO EUROPE Largeur maximale de coupe: DE 60 CM À 350 CM Matériel court: FLEXIBLES, SEMI RÍGIDOS AND RÍGIDOS (VER TABLA INFERIOR) Type de coupe: RECALLE Épaisseur du matériau: Jusqu'à 20 mm ]]>
-    </description>
-    <category>
-      <![CDATA[ Machines de Découpe ]]>
-    </category>
-    <category>
-      <![CDATA[ Outils pour découper un stylo carton ]]>
-    </category>
-    <category>Coupeuses Trimalco</category>
-    <category>Coupeuses pour Carton Plume</category>
-    <tag>coupe</tag>
-    <tag>europa</tag>
-    <tag>cutter</tag>
-    <tag>rigide</tag>
-    <tag>machinerie</tag>
-    <brand>Trimalco</brand>
-    <priority>1</priority>
-    <detail-url>https://moldiber.com/fr/machines-de-decoupe/barre-de-coupe-trimalco-europa-34.html</detail-url>
-    <image-url>https://moldiber.com/14594-connectif_default/barre-de-coupe-trimalco-europa.jpg</image-url>
-    <image-url-thumb>https://moldiber.com/14594-small_default/barre-de-coupe-trimalco-europa.webp</image-url-thumb>
-    <unit-price>545.10</unit-price>
-    <original-unit-price>545.10</original-unit-price>
-    <unit-price-without-vat>545.10</unit-price-without-vat>
-    <discount-amount>0.00</discount-amount>
-    <discount-percent>0.00</discount-percent>
-    <related-product-id/>
-    <reviews>0</reviews>
-    <rating>0</rating>
+    <external-prod-id>1-5243</external-prod-id>
+    <name>CAZO FRANCÉS INOX · Ø12 cm H7 cm 0,70 l</name>
+    <description>Fondo difusor, asa acero inoxidable.</description>
+    <category>/CAZOS Y TAPAS</category>
+    <detail-url>https://dispan.es/cazos-y-tapas/cazo-frances-inox#/3744-caracteristica-o12_cm_h7_cm_070_l</detail-url>
+    <unit-price>34.279300</unit-price>
+    <unit-price-without-vat>28.330000</unit-price-without-vat>
     <availaibility>instock</availaibility>
-    <stock>700000</stock>
-    <black-list>false</black-list>
-    <publish-date>2016-05-19T10:16:17</publish-date>
-    <custom-field-1>34</custom-field-1>
-    <custom-field-2/>
-    <custom-field-3/>
+    <stock>3</stock>
+    <image-url>https://dispan.es/1-home_default/cazo-frances-inox.jpg</image-url>
   </product>
   <product>
-    <external-prod-id>CPB10</external-prod-id>
-    <name>
-      <![CDATA[ Carton Plume Blanc 10mm 100x140 cm ]]>
-    </name>
-    <description>
-      <![CDATA[ Plaques de carton plume blanc de haute qualité pour sérigraphie, impression numérique et travaux d'encadrement. ]]>
-    </description>
-    <category>
-      <![CDATA[ Carton Plume ]]>
-    </category>
-    <tag>carton plume</tag>
-    <tag>foam board</tag>
-    <brand>MOLDIBER</brand>
-    <priority>1</priority>
-    <detail-url>https://moldiber.com/fr/carton-plume/carton-plume-blanc-10mm-50.html</detail-url>
-    <image-url>https://moldiber.com/3090-connectif_default/carton-plume-blanc-10mm.jpg</image-url>
-    <image-url-thumb>https://moldiber.com/3090-small_default/carton-plume-blanc-10mm.webp</image-url-thumb>
-    <unit-price>15.50</unit-price>
-    <original-unit-price>15.50</original-unit-price>
-    <unit-price-without-vat>12.81</unit-price-without-vat>
-    <discount-amount>0.00</discount-amount>
-    <discount-percent>0.00</discount-percent>
-    <related-product-id/>
-    <reviews>0</reviews>
-    <rating>0</rating>
+    <external-prod-id>1-5244</external-prod-id>
+    <name>CAZO FRANCÉS INOX · Ø16 cm H7,5 cm 1,50 l</name>
+    <description>Fondo difusor, asa acero inoxidable.</description>
+    <category>/CAZOS Y TAPAS</category>
+    <detail-url>https://dispan.es/cazos-y-tapas/cazo-frances-inox#/2541-caracteristica-o16_cm_h75_cm_150_l</detail-url>
+    <unit-price>38.792600</unit-price>
+    <unit-price-without-vat>32.060000</unit-price-without-vat>
     <availaibility>instock</availaibility>
-    <stock>120</stock>
-    <black-list>false</black-list>
-    <publish-date>2017-02-10T11:00:00</publish-date>
-    <custom-field-1>50</custom-field-1>
-    <custom-field-2/>
-    <custom-field-3/>
+    <stock>2</stock>
+    <image-url>https://dispan.es/1-home_default/cazo-frances-inox.jpg</image-url>
   </product>
   <product>
-    <external-prod-id>ALU30</external-prod-id>
-    <name>
-      <![CDATA[ Moulure d'encadrement en aluminium Noir Satiné ]]>
-    </name>
-    <description>
-      <![CDATA[ Moulure en aluminium idéale pour les diplômes, photos et affiches grand format. ]]>
-    </description>
-    <category>
-      <![CDATA[ Moulures Aluminium ]]>
-    </category>
-    <tag>moulure</tag>
-    <tag>aluminium</tag>
-    <brand>MOLDIBER</brand>
-    <priority>1</priority>
-    <detail-url>https://moldiber.com/fr/moulures-aluminium/moulure-alu-noir-60.html</detail-url>
-    <image-url>https://moldiber.com/4120-connectif_default/moulure-alu-noir.jpg</image-url>
-    <image-url-thumb>https://moldiber.com/4120-small_default/moulure-alu-noir.webp</image-url-thumb>
-    <unit-price>8.90</unit-price>
-    <original-unit-price>8.90</original-unit-price>
-    <unit-price-without-vat>7.36</unit-price-without-vat>
-    <discount-amount>0.00</discount-amount>
-    <discount-percent>0.00</discount-percent>
-    <related-product-id/>
-    <reviews>0</reviews>
-    <rating>0</rating>
+    <external-prod-id>1-5245</external-prod-id>
+    <name>CAZO FRANCÉS INOX · Ø20 cm H10 cm 3,10 l</name>
+    <description>Fondo difusor, asa acero inoxidable.</description>
+    <category>/CAZOS Y TAPAS</category>
+    <detail-url>https://dispan.es/cazos-y-tapas/cazo-frances-inox#/2542-caracteristica-o20_cm_h10_cm_310_l</detail-url>
+    <unit-price>46.923800</unit-price>
+    <unit-price-without-vat>38.780000</unit-price-without-vat>
     <availaibility>instock</availaibility>
-    <stock>500</stock>
-    <black-list>false</black-list>
-    <publish-date>2018-06-15T09:30:00</publish-date>
-    <custom-field-1>60</custom-field-1>
-    <custom-field-2/>
-    <custom-field-3/>
+    <stock>3</stock>
+    <image-url>https://dispan.es/1-home_default/cazo-frances-inox.jpg</image-url>
   </product>
 </products>
