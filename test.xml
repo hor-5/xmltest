@@ -10,7 +10,7 @@
     <availaibility>instock</availaibility>
     <stock>103</stock>
     <image-url>https://dispan.es/3533-home_default/bobina-de-cinta-vegetal.jpg</image-url>
-    <related-product-id>5245</related-product-id>
+    <related-product-id>3456</related-product-id>
   </product>
   <product>
     <external-prod-id>5245</external-prod-id>
@@ -23,5 +23,6 @@
     <availaibility>instock</availaibility>
     <stock>3</stock>
     <image-url>https://dispan.es/1-home_default/cazo-frances-inox.jpg</image-url>
+    <related-product-id>1234</related-product-id>
   </product>
 </products>
